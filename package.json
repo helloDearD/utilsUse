@@ -1,0 +1,27 @@
+{
+  "name": "utilsuse",
+  "version": "1.0.0",
+  "description": "utils use",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloDearD/utilsUse.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "utils"
+  ],
+  "author": "dairui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helloDearD/utilsUse/issues"
+  },
+  "homepage": "https://github.com/helloDearD/utilsUse#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
