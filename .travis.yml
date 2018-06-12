@@ -7,4 +7,4 @@ brancher:
     - 'dev'
     - 'master'
 script:
-  - npm test
+  - 'npm test'
