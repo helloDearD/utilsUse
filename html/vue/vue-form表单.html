@@ -1,0 +1,9 @@
+<form class="city_form" v-on:submit.prevent>
+            <div>
+                <input type="search" name="city" placeholder="输入学校、商务楼、地址" required v-model='inputVaule'>
+            </div>
+            <div>
+                <input type="submit" name="submit" class="city_submit input_style" @click='postpois' value="提交">
+            </div>
+</form>
+上边的代码片段使用了vue的语法的一个form表单，通过这种提交的数据具有表单的属性
